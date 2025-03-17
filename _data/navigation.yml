@@ -1,0 +1,7 @@
+# filepath: /Users/zzy/my-blog/Wisryan.github.io/_data/navigation.yml
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Comment
+  link: /comment/
