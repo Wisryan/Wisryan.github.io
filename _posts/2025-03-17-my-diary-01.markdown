@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
-date:   2025-03-15 12:38:04 +0800
+title:  "My first diary"
+date:   2025-03-17 23:43:02 +0800
 categories: jekyll update
 ---
 这是我的第一篇日记！
